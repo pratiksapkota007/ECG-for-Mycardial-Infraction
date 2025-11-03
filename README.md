@@ -67,4 +67,3 @@ python src/infer.py   --checkpoint checkpoints/resnet18_ecg_iid_best.pth   --ima
 python app/gradio_app.py --checkpoint checkpoints/resnet18_ecg_iid_best.pth
 ```
 
-Non IID and federated variants are intentionally excluded here.
